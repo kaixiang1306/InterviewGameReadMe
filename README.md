@@ -1,4 +1,4 @@
-## InterviewGameReadMe
+## README
 
 登入頁面 使用遊客登入
 ![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/1.png)
@@ -14,7 +14,7 @@
 ![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/6.PNG)
 
 伺服器部署 GCP雲端
-![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/server.PNG)
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/server.png)
 
 手機執行畫面
 ![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/S__13123586.jpg)
