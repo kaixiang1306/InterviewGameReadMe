@@ -10,5 +10,5 @@
 ![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/3.png)
 ![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/4.png)
 
-![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/5.png)
-![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/6.png)
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/5.PNG)
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/6.PNG)
