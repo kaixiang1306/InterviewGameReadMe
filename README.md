@@ -12,3 +12,13 @@
 
 ![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/5.PNG)
 ![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/6.PNG)
+
+伺服器部署 GCP雲端
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/server.PNG)
+
+手機執行畫面
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/S__13123586.jpg)
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/S__13123588.jpg)
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/S__13123589.jpg)
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/S__13123590.jpg)
+![image](https://github.com/kaixiang1306/InterviewGameReadMe/blob/master/img/S__13123591.jpg)
